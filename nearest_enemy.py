@@ -1,9 +1,7 @@
 '''
 empireofcode.com
 
-I wrote this code because I needed a strategy,
-where my troops went for the nearest defense tower,
-instead of any defense tower.
+this code makes sure that the troops aim at a single target.
 '''
 from battle import commander
 from battle import ROLE
