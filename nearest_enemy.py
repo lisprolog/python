@@ -1,5 +1,5 @@
 '''
-empireorcode.com
+empireofcode.com
 
 I wrote this code because I needed a strategy,
 where my troops went for the nearest defense tower,
